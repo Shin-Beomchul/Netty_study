@@ -32,7 +32,7 @@ public class Example1_1 {
 					out.println(request);
 					
 				}
-				System.out.println("while을 빠져나오지 못함.");
+				System.out.println("while을 빠져나오지 못함..");
 				 
 			}
 		}finally {
