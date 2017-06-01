@@ -13,6 +13,6 @@ Lecure 1. <br>
   Lecure 4. <br>
      -plainNio, OIOServer를 구현해봄<br>
         -Plainjava의OIO/NIO간 마이그레이션이 굉장히 복잡하고 함들다는 것을 암<br>
-        -Netty는노출된인터페이스가OIO/NIO가 동일하게 노출되어 있으므로 마이그레이션이 굉장히 쉬움<br>
-        -Epoll이 훨씬효율적임<br>
+        -Netty는 노출된인터페이스가OIO/NIO가 동일하게 노출되어 있으므로 마이그레이션이 굉장히 쉬움<br>
+        -리눅스에서는 Epoll이 훨씬효율적임<br>
        <br>
